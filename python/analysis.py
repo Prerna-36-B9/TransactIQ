@@ -1,7 +1,7 @@
-import mysql.connector
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+import mysql.connector # type: ignore
+import pandas as pd # type: ignore
+import matplotlib.pyplot as plt # type: ignore
+import seaborn as sns # type: ignore
 
 # Connect to MySQL
 conn = mysql.connector.connect(
