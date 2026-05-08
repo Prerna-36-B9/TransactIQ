@@ -11,6 +11,7 @@ To analyze and visualize digital payment data in order to:
 - Identify top-performing regions
 - Analyze transaction trends over time
 - Provide actionable business insights
+- Provide dashboard visualization
 
 ---
 
@@ -18,7 +19,6 @@ To analyze and visualize digital payment data in order to:
 - Python (Pandas, Matplotlib, Plotly)
 - SQL (MySQL)
 - Streamlit (Dashboard)
-- VS Code
 
 ---
 
@@ -74,7 +74,7 @@ To analyze and visualize digital payment data in order to:
 - Visualizations:
   - Yearly trend
   - Quarterly trend
-  - Top states
+  - Top states (by count and by amount)
   - Transaction type distribution  
 
 ---
